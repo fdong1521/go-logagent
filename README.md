@@ -25,7 +25,7 @@
 
 # 四、整体架构
 
-![日志集采架构图]("(http://jibao-supplier.oss-cn-shanghai.aliyuncs.com/jibaomall/190103173928_3058062336_cb81f2ad-366c-40ce-8391-2ed1dc2f7c3d..png)
+![日志集采架构图](https://raw.githubusercontent.com/fdong1521/go-logagent/master/img-doc/%E6%97%A5%E5%BF%97%E9%87%87%E9%9B%86%E5%99%A8%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
 # 五、数据表设计
 **1.主机节点表 t_logagent_node**
